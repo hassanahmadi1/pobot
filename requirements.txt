@@ -1,0 +1,6 @@
+# Pocket Option Trading Bot Dependencies
+# Compatible with Python 3.8+
+
+selenium>=4.15.0,<5.0.0
+undetected-chromedriver>=3.5.0,<4.0.0
+requests>=2.31.0
